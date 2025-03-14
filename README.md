@@ -1,7 +1,7 @@
-### Seasoned developer working primarily in the blockchain ecosystem 
+### Seasoned developer with a decade in blockchain, now building vertical SaaS
 
-- 🦀 I like writing software in Rust
-- 🔭 I'm currently working on AI tooling for Bitcoin
-- 🌱 I enjoy learning cryptography, mathematics and AI 
+- 🛠️ I like building simple and flexible products
+- ⚖️ Building next-generation legal tech
+- ⛓️ Previously a blockchain builder
 
 💬 [Reach out](https://linktr.ee/tavakyan) if you want to connect!
