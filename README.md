@@ -1,9 +1,6 @@
-### Seasoned developer with a decade in blockchain, now building vertical SaaS
+### Seasoned Software Architect
 
 - 🛠️ I like building simple and flexible products
-- ⚖️ Building next-generation legal tech
-- ⛓️ Previously a blockchain builder
-- 🐇 Going down agentic rabbit holes
-- ⏰ Check out [the timeless manifesto](https://github.com/tavakyan/timeless)
+- ⚖️ Currently building a Legal Practice Management System
 
 💬 [Reach out](https://linktr.ee/tavakyan) if you want to connect!
